@@ -1,0 +1,133 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.28)  1 MAR 2021 21:44
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Main.tex
+(./Main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/apacite/apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count176
+\bibleftmargin=\skip49
+\bibindent=\skip50
+\bibparsep=\skip51
+\bibitemsep=\skip52
+\biblabelsep=\skip53
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count177
+\l__pdf_internal_box=\box45
+)
+(./Main.aux)
+\openout1 = `Main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+\c@maskedRefs=\count178
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/apacite/english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 8.
+[1
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+(./Main.bbl [1]
+Underfull \hbox (badness 5133) in paragraph at lines 16--35
+[]\OT1/cmr/m/n/10 Sehovac, L., & Grolinger, K.  (2020).  Deep learn-ing for loa
+d
+ []
+
+
+Underfull \hbox (badness 1629) in paragraph at lines 16--35
+\OT1/cmr/m/n/10 fore-cast-ing: Se-quence to se-quence re-cur-rent neu-ral net-w
+orks with
+ []
+
+
+Underfull \hbox (badness 6675) in paragraph at lines 16--35
+\OT1/cmr/m/n/10 at-ten-tion.  \OT1/cmr/m/it/10 IEEE Ac-cess\OT1/cmr/m/n/10 , \O
+T1/cmr/m/it/10 8\OT1/cmr/m/n/10 , 36411--36426.  Re-trieved from
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 81--101
+[]\OT1/cmr/m/n/10 Tsubaki, M., Tomii, K., & Sese, J.  (2019).  Compound-protein
+ in-
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 81--101
+\OT1/cmr/m/n/10 ter-ac-tion pre-dic-tion with end-to-end learn-ing of neu-ral n
+et-works
+ []
+
+
+Underfull \hbox (badness 3449) in paragraph at lines 81--101
+\OT1/cmr/m/n/10 for graphs and se-quences.  \OT1/cmr/m/it/10 Bioin-form.\OT1/cm
+r/m/n/10 , \OT1/cmr/m/it/10 35\OT1/cmr/m/n/10 (2), 309--318.  Re-
+ []
+
+) [2
+
+] (./Main.aux) ) 
+Here is how much of TeX's memory you used:
+ 863 strings out of 480608
+ 12602 string characters out of 5903630
+ 250973 words of memory out of 5000000
+ 16814 multiletter control sequences out of 15000+600000
+ 537098 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,6n,19p,922b,190s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmr12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt
+10.pfb>
+Output written on Main.pdf (3 pages, 88682 bytes).
+PDF statistics:
+ 38 PDF objects out of 1000 (max. 8388607)
+ 26 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

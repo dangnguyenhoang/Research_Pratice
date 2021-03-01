@@ -1,0 +1,102 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Sehovac%
+\ \BBA {} Grolinger%
+}{%
+Sehovac%
+\ \BBA {} Grolinger%
+}{%
+{\protect \APACyear {2020}}%
+}]{%
+DBLP:journals/access/SehovacG20}
+\APACinsertmetastar {%
+DBLP:journals/access/SehovacG20}%
+\begin{APACrefauthors}%
+Sehovac, L.%
+\BCBT {}\ \BBA {} Grolinger, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Deep Learning for Load Forecasting: Sequence to Sequence
+  Recurrent Neural Networks With Attention} {Deep learning for load
+  forecasting: Sequence to sequence recurrent neural networks with
+  attention}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{{IEEE} Access}{8}{}{36411--36426}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1109/ACCESS.2020.2975738}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1109/ACCESS.2020.2975738} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{Strobelt}%
+\ \protect \BOthers {.}}{%
+{Strobelt}%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+8494828}
+\APACinsertmetastar {%
+8494828}%
+\begin{APACrefauthors}%
+{Strobelt}, H.%
+, {Gehrmann}, S.%
+, {Behrisch}, M.%
+, {Perer}, A.%
+, {Pfister}, H.%
+\BCBL {}\ \BBA {} {Rush}, A\BPBI M.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Seq2seq-Vis: A Visual Debugging Tool for
+  Sequence-to-Sequence Models} {Seq2seq-vis: A visual debugging tool for
+  sequence-to-sequence models}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE Transactions on Visualization and Computer
+  Graphics}{25}{1}{353-363}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/TVCG.2018.2865044} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Tsubaki%
+, Tomii%
+\BCBL {}\ \BBA {} Sese%
+}{%
+Tsubaki%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2019}}%
+}]{%
+DBLP:journals/bioinformatics/TsubakiTS19}
+\APACinsertmetastar {%
+DBLP:journals/bioinformatics/TsubakiTS19}%
+\begin{APACrefauthors}%
+Tsubaki, M.%
+, Tomii, K.%
+\BCBL {}\ \BBA {} Sese, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2019}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Compound-protein interaction prediction with end-to-end
+  learning of neural networks for graphs and sequences} {Compound-protein
+  interaction prediction with end-to-end learning of neural networks for graphs
+  and sequences}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Bioinform.}{35}{2}{309--318}.
+\newblock
+\begin{APACrefURL} \url{https://doi.org/10.1093/bioinformatics/bty535}
+  \end{APACrefURL}
+\newblock
+\begin{APACrefDOI} \doi{10.1093/bioinformatics/bty535} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}
